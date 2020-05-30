@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/PrestonPhelan/sculpting-you/issues"
   },
-  "homepage": "https://github.com/PrestonPhelan/sculpting-you#readme"
+  "homepage": "https://github.com/PrestonPhelan/sculpting-you#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
